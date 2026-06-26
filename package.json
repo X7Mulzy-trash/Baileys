@@ -1,6 +1,6 @@
 {
   "name": "@xrelly-stack/bails",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "description": "Modified Bailyez, Connection Botz— Complete xrl API (Lotus + wbails engine)",
   "keywords": [
     "whatsapp-xrl",
@@ -10,7 +10,7 @@
     "WhatsApp",
     "wa-bot"
   ],
-  "homepage": "https://github.com/ayunlove/bails",
+  "homepage": "https://github.com/Xrelly-stack/bails",
   "repository": {
     "url": "https://www.npmjs.com/package/@xrelly-stack/bails"
   },
