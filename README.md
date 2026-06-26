@@ -1,6 +1,6 @@
 # @xrelly-stack/bails
 
-WhatsApp Modified By ayunlove — Complete xrl API.
+WhatsApp Modified By Lotus Seiren — Complete xrl API.
 
 ## Install
 
@@ -9,8 +9,6 @@ WhatsApp Modified By ayunlove — Complete xrl API.
   "@xrelly-stack/bails": "^2.0.0"
 }
 ```
-
-> **jimp sudah include** — tidak perlu install `jimp` terpisah.
 
 ## Import
 
