@@ -1,5 +1,5 @@
 {
-  "name": "@Xrelly-stack/bails",
+  "name": "@xrelly-stack/bails",
   "version": "2.2.6",
   "description": "WhatsApp Modified By ayunlove — Complete xrl API (Lotus + wbails engine)",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "homepage": "https://github.com/ayunlove/bails",
   "repository": {
-    "url": "https://www.npmjs.com/package/@Xrelly-stack/bails"
+    "url": "https://www.npmjs.com/package/@xrelly-stack/bails"
   },
   "license": "MIT",
   "author": "Orang Biasa",

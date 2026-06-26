@@ -1,4 +1,4 @@
-# @Xrelly-stack/bails
+# @xrelly-stack/bails
 
 WhatsApp Modified By ayunlove — Complete xrl API.
 
@@ -6,7 +6,7 @@ WhatsApp Modified By ayunlove — Complete xrl API.
 
 ```json
 "dependencies": {
-  "@Xrelly-stack/bails": "^2.0.0"
+  "@xrelly-stack/bails": "^2.0.0"
 }
 ```
 
@@ -15,7 +15,7 @@ WhatsApp Modified By ayunlove — Complete xrl API.
 ## Import
 
 ```javascript
-const { default: makeWASocket, DisconnectReason } = require('@Xrelly-stack/bails');
+const { default: makeWASocket, DisconnectReason } = require('@xrelly-stack/bails');
 ```
 
 ## Fitur
