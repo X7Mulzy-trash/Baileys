@@ -1,21 +1,20 @@
 {
-  "name": "@xrelly-stack/bails",
+  "name": "@X7Mulzy-trash/Baileys",
   "version": "2.2.9",
-  "description": "Modified Bailyez, Connection Botz— Complete xrl API (Lotus + wbails engine)",
+  "description": "Modified Bailyez, Connection Botz",
   "keywords": [
-    "whatsapp-xrl",
-    "xrelly-bailyez",
+    "Mulzy-x7",
     "bails",
-    "xrl",
     "WhatsApp",
     "wa-bot"
   ],
-  "homepage": "https://github.com/Xrelly-stack/bails",
+  "homepage": "https://github.com/X7Mulzy-trash/Baileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/@xrelly-stack/bails"
+    "type": "git",
+    "url": "https://github.com/X7Mulzy-trash/Baileys.git"
   },
   "license": "MIT",
-  "author": "Orang Biasa",
+  "author": "MULZYX7",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
